@@ -1,0 +1,4 @@
+export PUSHER_APP_ID=""
+export PUSHER_APP_KEY=""
+export PUSHER_APP_SECRET=""
+export PUSHER_APP_CLUSTER=""
